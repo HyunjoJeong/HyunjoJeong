@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Hyunjo-Jeong
-## I'm junior FE developer!
+#### I'm junior FE developer!
 
 - 🔭 I’m currently working on timeline PWA with NextJs
 - 👀 I’m interested in making my own web-app!
