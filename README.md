@@ -107,3 +107,30 @@ _Engineering products on the web, and exploring intelligent systems._
 | 🗄️ **Web Backend**       | 데이터 모델링부터 안정적인 서비스 API까지                     |
 | ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식       |
 | 🧠 **AI Transformation** | RAG를 비롯해 AI를 제품과 업무에 실질적으로 연결하는 방법론    |
+
+<br />
+
+## 📬 Contact
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="220">
+      <b>✉️ Gmail</b><br />
+      <a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a>
+    </td>
+    <td align="center" width="220">
+      <b>✍️ Dev Blog</b><br />
+      <a href="https://velog.io/@twinkleandy/posts">Velog</a>
+    </td>
+    <td align="center" width="220">
+      <b>☕ Daily Blog</b><br />
+      <a href="https://brunch.co.kr/@hyunjo618">Brunch</a>
+    </td>
+  </tr>
+</table>
+
+<sub>Feel free to reach out or follow along.</sub>
+
+</div>
