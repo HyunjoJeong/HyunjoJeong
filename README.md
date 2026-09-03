@@ -99,7 +99,7 @@ _Engineering products on the web, and exploring intelligent systems._
 
 ## 🔭 Currently Interested In
 
-> 한 가지 도메인에 머무르기보다, **사용자 경험 · 서비스 · 시스템 · AI 활용**이 만나는 지점을 탐구합니다.
+> **사용자 경험 · 서비스 · 시스템 · AI 활용**이 만나는 지점을 탐구합니다.
 
 | Focus                    | Exploring                                                     |
 | :----------------------- | :------------------------------------------------------------ |
