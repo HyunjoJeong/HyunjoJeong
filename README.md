@@ -10,7 +10,25 @@ _Engineering products on the web, and exploring intelligent systems._
 ![ML Systems](https://img.shields.io/badge/ML%20Systems-111827?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-AI%20%26%20ML-7C3AED?style=for-the-badge)
 
-`🏃 Running` &nbsp;·&nbsp; `🏋️ Fitness` &nbsp;·&nbsp; `📚 Reading`
+<table>
+  <tr>
+    <td align="center" width="260">
+      <b>🗣️ TOEIC Speaking</b><br />
+      <sub>Advanced Low(170)</sub><br />
+      <sub>25.09.14</sub><br />
+    </td>
+    <td align="center" width="260">
+      <b>💾 SQL Developer</b><br />
+      <sub>Licensed</sub><br />
+      <sub>26.08.22</sub><br />
+    </td>
+    <td align="center" width="260">
+      <b>🏃🏻‍♂️ 10K Marathon</b><br />
+      <sub>Record - 01:05:06</sub><br />
+      <sub>26.08.31</sub><br />
+    </td>
+  </tr>
+</table>
 
 </div>
 
