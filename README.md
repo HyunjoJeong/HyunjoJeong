@@ -112,25 +112,21 @@ _Engineering products on the web, and exploring intelligent systems._
 
 ## 📬 Contact
 
-<div align="center">
-
 <table>
   <tr>
-    <td align="center" width="220">
-      <b>✉️ Gmail</b><br />
-      <a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a>
-    </td>
-    <td align="center" width="220">
-      <b>✍️ Dev Blog</b><br />
-      <a href="https://velog.io/@twinkleandy/posts">Velog</a>
-    </td>
-    <td align="center" width="220">
-      <b>☕ Daily Blog</b><br />
-      <a href="https://brunch.co.kr/@hyunjo618">Brunch</a>
-    </td>
+    <td>📨 Gmail</td>
+    <td><a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a></td>
+  </tr>
+  <tr>
+    <td>👨‍💻 Dev Blog</td>
+    <td><a href="https://velog.io/@twinkleandy/posts">Velog · surfer.hj</a></td>
+  </tr>
+  <tr>
+    <td>☕️ Daily Blog</td>
+    <td><a href="https://brunch.co.kr/@hyunjo618">Brunch · hyunjo618</a></td>
   </tr>
 </table>
 
-<sub>Feel free to reach out or follow along.</sub>
-
+<div align="center">
+  <sub>Feel free to reach out or follow along.</sub>
 </div>
