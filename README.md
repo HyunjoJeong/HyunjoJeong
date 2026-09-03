@@ -14,8 +14,13 @@ _Engineering products on the web, and exploring intelligent systems._
   <tr>
     <td align="center" width="260">
       <b>🗣️ TOEIC Speaking</b><br />
-      <sub>Advanced Low(170)</sub><br />
+      <sub>Advanced Low (170)</sub><br />
       <sub>25.09.14</sub><br />
+    </td>
+    <td align="center" width="260">
+      <b>✅ NVIDIA Certificates</b><br />
+      <sub>Vision · Conversational AI </sub><br />
+      <sub>26.01.07 | 15</sub><br />
     </td>
     <td align="center" width="260">
       <b>💾 SQL Developer</b><br />
