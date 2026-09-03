@@ -10,6 +10,8 @@ _Engineering products on the web, and exploring intelligent systems._
 ![ML Systems](https://img.shields.io/badge/ML%20Systems-111827?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![Currently Learning](https://img.shields.io/badge/Currently%20Learning-AI%20%26%20ML-7C3AED?style=for-the-badge)
 
+`🏃 Running` &nbsp;·&nbsp; `🏋️ Fitness` &nbsp;·&nbsp; `📚 Reading`
+
 </div>
 
 <br />
@@ -69,3 +71,16 @@ _Engineering products on the web, and exploring intelligent systems._
 - 🥇 온라인 해커톤(예선) 팀 1등 및 오프라인 해커톤(본선) 팀 n등(예정)
 
 </details>
+
+<br />
+
+## 🔭 Currently Interested In
+
+> 한 가지 도메인에 머무르기보다, **사용자 경험 · 서비스 · 시스템 · AI 활용**이 만나는 지점을 탐구합니다.
+
+| Focus                    | Exploring                                                     |
+| :----------------------- | :------------------------------------------------------------ |
+| 🎨 **Frontend**          | 웹에 한정되지 않은 사용자 인터페이스와 인터랙션을 설계하는 일 |
+| 🗄️ **Web Backend**       | 데이터 모델링부터 안정적인 서비스 API까지 \| `SQLD Certified` |
+| ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식       |
+| 🧠 **AI Transformation** | RAG를 비롯해 AI를 제품과 업무에 실질적으로 연결하는 방법론    |
