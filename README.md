@@ -25,7 +25,7 @@ _Engineering products on the web, and exploring intelligent systems._
     <td align="center" width="260">
       <b>💾 SQL Developer</b><br />
       <sub>Licensed</sub><br />
-      <sub>26.08.22</sub><br />
+      <sub>26.09.11</sub><br />
     </td>
     <td align="center" width="260">
       <b>🏃🏻‍♂️ 10K Marathon</b><br />
