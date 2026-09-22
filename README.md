@@ -117,16 +117,16 @@ _Engineering products on the web, and exploring intelligent systems._
 
 <table>
   <tr>
-    <td>📨 Gmail</td>
-    <td><a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a></td>
-  </tr>
-  <tr>
     <td>👨‍💻 Dev Blog</td>
     <td><a href="https://velog.io/@twinkleandy/posts">Velog · surfer.hj</a></td>
   </tr>
   <tr>
     <td>☕️ Daily Blog</td>
     <td><a href="https://brunch.co.kr/@hyunjo618">Brunch · hyunjo618</a></td>
+  </tr>
+  <tr>
+    <td>📨 Gmail</td>
+    <td><a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a></td>
   </tr>
 </table>
 
