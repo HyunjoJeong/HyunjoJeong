@@ -108,8 +108,8 @@ _Engineering products on the web, and exploring intelligent systems._
 | :----------------------- | :------------------------------------------------------ |
 | 🎨 **Frontend**          | 사용자 인터페이스와 인터랙션을 설계하는 일              |
 | 🗄️ **Backend**           | 데이터 모델링부터 안정적인 서비스 API까지               |
-| ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식 |
 | 🧠 **AI Transformation** | AI를 제품과 업무에 실질적으로 연결하는 방법론           |
+| ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식 |
 
 <br />
 
