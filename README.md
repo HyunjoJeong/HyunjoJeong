@@ -44,26 +44,27 @@ _Engineering products on the web, and exploring intelligent systems._
 > **Web Frontend → ML systems → Applied SW·AI**<br />
 > SW 제품을 만드는 경험에서 출발해, SW 시스템과 AI까지 관심의 폭을 넓혀가고 있습니다.
 
-| 기간                  | 경험                                            | 한눈에 보기                                                |
-| :-------------------- | :---------------------------------------------- | :--------------------------------------------------------- |
-| `2023.06` — `2025.09` | **🛠️ 병역특례 개발자**<br />_Frontend Engineer_ | 멀티 테넌트 웹 채팅 플랫폼 · 백오피스 · 사내 UI 라이브러리 |
-| `2025.12` — `2026.05` | **🔬 SNU MLSys Lab**<br />_Research Intern_     | ML/DL·LLM 기초 · UMA 데이터 일관성 성능 분석               |
-| `2026.06` — `2026.09` | **🤖 LG Aimers 9기**<br />_AI Hackathon_        | Tabular ML · Feature Engineering · Model Ensemble          |
+| 기간                  | 경험                                            | 한눈에 보기                                                 |
+| :-------------------- | :---------------------------------------------- | :---------------------------------------------------------- |
+| `2026.06` — `2026.09` | **🤖 LG Aimers 9기**<br />_AI Hackathon_        | Tabular ML · Feature Engineering · 예선 1위 · 본선 5위      |
+| `2025.12` — `2026.05` | **🔬 SNU MLSys Lab**<br />_Research Intern_     | ML·DL·LLM 기초 학습 · UMA 데이터 일관성 성능 분석 과제 수행 |
+| `2023.06` — `2025.09` | **🛠️ 병역특례 개발자**<br />_Frontend Engineer_ | 멀티 테넌트 웹 채팅 플랫폼 · 백오피스 · 사내 UI 라이브러리  |
 
 <br />
 
 <details open>
-<summary><b>🛠️ 병역특례 개발자</b> <sub>· Frontend Engineer · 2023.06.19 — 2025.09.04</sub></summary>
+<summary><b>🤖 LG Aimers 9기</b> <sub>· AI Hackathon · 2026.06.22 — 2026.09.20</sub></summary>
 
 <br />
 
-> **멀티 테넌트 웹 채팅 서비스의 사용자 경험과 운영 도구 구축**
+> **투수의 제구 성공률을 예측하는 Tabular ML 모델 개발**
 
-`TypeScript` · `React` · `Next.js` · `TanStack Query` · `Zustand` · `GraphQL` · `WebSocket`
-
-- 💬 여러 고객사가 사용하는 **멀티 테넌트 웹 채팅 플랫폼** 구축
-- ⚙️ 운영 업무를 지원하는 **사내 백오피스 시스템** 구축
-- 🧩 일관된 제품 경험을 위한 **사내 UI 라이브러리** 구축
+- 📊 Tabular data를 위한 **ML 방법론** 탐색 및 실험 (Catboost, LightGBM, XGBoost 활용)
+- 🧪 **Feature Engineering** 을 통한 성능 개선
+  - 투수·구종 기반 제구력 예측 신규 속성 생성
+  - 가우시안 필터를 활용한 평가점수 평활화
+  - 시즌에 따른 데이터 이상 보정 등
+- 🥇 온라인 해커톤(예선) 1등 및 오프라인 해커톤(본선) 5등
 
 </details>
 
@@ -83,15 +84,17 @@ _Engineering products on the web, and exploring intelligent systems._
 </details>
 
 <details open>
-<summary><b>🤖 LG Aimers 9기</b> <sub>· AI Hackathon · 2026.06.22 — 2026.09.20</sub></summary>
+<summary><b>🛠️ 병역특례 개발자</b> <sub>· Frontend Engineer · 2023.06.19 — 2025.09.04</sub></summary>
 
 <br />
 
-> **투수의 제구 성공률을 예측하는 Tabular ML 모델 개발**
+> **멀티 테넌트 웹 채팅 서비스의 사용자 경험과 운영 도구 구축**
 
-- 📊 Tabular data를 위한 **ML 방법론** 탐색 및 실험 (Catboost, LightGBM, XGBoost, MLP, etc)
-- 🧪 **Feature engineering + model ensemble** 기반의 성능 튜닝
-- 🥇 온라인 해커톤(예선) 팀 1등 및 오프라인 해커톤(본선) 팀 n등(예정)
+`TypeScript` · `React` · `Next.js` · `TanStack Query` · `Zustand` · `GraphQL` · `WebSocket`
+
+- 💬 여러 고객사가 사용하는 **멀티 테넌트 웹 채팅 플랫폼** 구축
+- ⚙️ 운영 업무를 지원하는 **사내 백오피스 시스템** 구축
+- 🧩 일관된 제품 경험을 위한 **사내 UI 라이브러리** 구축
 
 </details>
 
@@ -101,12 +104,12 @@ _Engineering products on the web, and exploring intelligent systems._
 
 > **사용자 경험 · 서비스 · 시스템 · AI 활용**이 만나는 지점을 탐구합니다.
 
-| Focus                    | Exploring                                                     |
-| :----------------------- | :------------------------------------------------------------ |
-| 🎨 **Frontend**          | 웹에 한정되지 않은 사용자 인터페이스와 인터랙션을 설계하는 일 |
-| 🗄️ **Backend**           | 데이터 모델링부터 안정적인 서비스 API까지                     |
-| ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식       |
-| 🧠 **AI Transformation** | RAG를 비롯해 AI를 제품과 업무에 실질적으로 연결하는 방법론    |
+| Focus                    | Exploring                                               |
+| :----------------------- | :------------------------------------------------------ |
+| 🎨 **Frontend**          | 사용자 인터페이스와 인터랙션을 설계하는 일              |
+| 🗄️ **Backend**           | 데이터 모델링부터 안정적인 서비스 API까지               |
+| ⚡ **Embedded SW**       | 하드웨어와 맞닿은 소프트웨어, 그리고 시스템의 동작 방식 |
+| 🧠 **AI Transformation** | AI를 제품과 업무에 실질적으로 연결하는 방법론           |
 
 <br />
 
