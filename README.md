@@ -30,7 +30,7 @@ _Engineering products on the web, and exploring intelligent systems._
     <td align="center" width="260">
       <b>🏃🏻‍♂️ 10K Marathon</b><br />
       <sub>Record - 01:05:06</sub><br />
-      <sub>26.08.31</sub><br />
+      <sub>26.08.30</sub><br />
     </td>
   </tr>
 </table>
