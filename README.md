@@ -118,11 +118,11 @@ _Engineering products on the web, and exploring intelligent systems._
 <table>
   <tr>
     <td>👨‍💻 Dev Blog</td>
-    <td><a href="https://velog.io/@twinkleandy/posts">Velog · surfer.hj</a></td>
+    <td><a href="https://velog.io/@twinkleandy/posts">Velog | runner.hj</a></td>
   </tr>
   <tr>
     <td>☕️ Daily Blog</td>
-    <td><a href="https://brunch.co.kr/@hyunjo618">Brunch · hyunjo618</a></td>
+    <td><a href="https://brunch.co.kr/@hyunjo618">Brunch | hyunjo618</a></td>
   </tr>
   <tr>
     <td>📨 Gmail</td>
