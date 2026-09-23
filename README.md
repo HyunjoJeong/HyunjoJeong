@@ -64,7 +64,7 @@ _Engineering products on the web, and exploring intelligent systems._
   - 투수·구종 기반 제구력 예측 신규 속성 생성
   - 가우시안 필터를 활용한 평가점수 평활화
   - 시즌에 따른 데이터 이상 보정 등
-- 🥇 <a href="https://dacon.io/competitions/official/236743/leaderboard">온라인 해커톤(예선) 1등</a> 및 <a href="https://dacon.io/competitions/official/236767/leaderboard">오프라인 해커톤(본선) 5등</a>
+- 🥇 <a href="https://dacon.io/competitions/official/236743/leaderboard" target="_blank">온라인 해커톤(예선) 1등</a> 및 <a href="https://dacon.io/competitions/official/236767/leaderboard" target="_blank">오프라인 해커톤(본선) 5등</a>
 
 </details>
 
@@ -118,15 +118,15 @@ _Engineering products on the web, and exploring intelligent systems._
 <table>
   <tr>
     <td>👨‍💻 Dev Blog</td>
-    <td><a href="https://velog.io/@twinkleandy/posts">Velog | runner.hj</a></td>
+    <td><a href="https://velog.io/@twinkleandy/posts" target="_blank">Velog | runner.hj</a></td>
   </tr>
   <tr>
     <td>☕️ Daily Blog</td>
-    <td><a href="https://brunch.co.kr/@hyunjo618">Brunch | hyunjo618</a></td>
+    <td><a href="https://brunch.co.kr/@hyunjo618" target="_blank">Brunch | hyunjo618</a></td>
   </tr>
   <tr>
     <td>📨 Gmail</td>
-    <td><a href="mailto:twinkleandy@snu.ac.kr">twinkleandy@snu.ac.kr</a></td>
+    <td><a href="mailto:twinkleandy@snu.ac.kr" target="_blank">twinkleandy@snu.ac.kr</a></td>
   </tr>
 </table>
 
