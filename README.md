@@ -64,7 +64,7 @@ _Engineering products on the web, and exploring intelligent systems._
   - 투수·구종 기반 제구력 예측 신규 속성 생성
   - 가우시안 필터를 활용한 평가점수 평활화
   - 시즌에 따른 데이터 이상 보정 등
-- 🥇 온라인 해커톤(예선) 1등 및 오프라인 해커톤(본선) 5등
+- 🥇 <a href="https://dacon.io/competitions/official/236743/leaderboard">온라인 해커톤(예선) 1등</a> 및 <a href="https://dacon.io/competitions/official/236767/leaderboard">오프라인 해커톤(본선) 5등</a>
 
 </details>
 
